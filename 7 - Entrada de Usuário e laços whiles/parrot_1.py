@@ -6,3 +6,4 @@ while message != "quit":
 	message = input(prompt)
 	if message != 'quit':
 		print(message)
+		
